@@ -1,0 +1,44 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "forkify",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "core-js": "^3.33.3",
+        "regenerator-runtime": "^0.14.0"
+      }
+    },
+    "node_modules/core-js": {
+      "version": "3.33.3",
+      "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.33.3.tgz",
+      "integrity": "sha512-lo0kOocUlLKmm6kv/FswQL8zbkH7mVsLJ/FULClOhv8WRVmKLVcs6XPNQAzstfeJTCHMyButEwG+z1kHxHoDZw==",
+      "hasInstallScript": true,
+      "funding": {
+        "type": "opencollective",
+        "url": "https://opencollective.com/core-js"
+      }
+    },
+    "node_modules/regenerator-runtime": {
+      "version": "0.14.0",
+      "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.14.0.tgz",
+      "integrity": "sha512-srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA=="
+    }
+  },
+  "dependencies": {
+    "core-js": {
+      "version": "3.33.3",
+      "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.33.3.tgz",
+      "integrity": "sha512-lo0kOocUlLKmm6kv/FswQL8zbkH7mVsLJ/FULClOhv8WRVmKLVcs6XPNQAzstfeJTCHMyButEwG+z1kHxHoDZw=="
+    },
+    "regenerator-runtime": {
+      "version": "0.14.0",
+      "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.14.0.tgz",
+      "integrity": "sha512-srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA=="
+    }
+  }
+}
